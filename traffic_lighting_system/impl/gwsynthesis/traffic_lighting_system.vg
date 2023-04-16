@@ -1,0 +1,38 @@
+//
+//Written by GowinSynthesis
+//Product Version "GowinSynthesis V1.9.8.09 Education"
+//Sun Apr 09 11:54:41 2023
+
+//Source file index table:
+//file0 "\C:/Users/bjkli/OneDrive/Belgeler/traffic_lighting_system/src/program.v"
+`pragma protect begin_protected
+`pragma protect version="2.1"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.1"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2021-10",key_method="rsa"
+`pragma protect key_block
+RAQnfleO/iLs1VPdnioUqxrQrZ3RNbMs8ivDAiYWe6rJ06Ns+yKjgpli+y/4erHKyl814DvcsnGG
+SiExcGZ5t0/IrSYQAF0EUWlP3Tb7AKXQIF7Asul/L6NP1X2YC9Fnya/AWU6XFOLxWvnDHRtfFKO4
+NEd/fTuE71pDEBp2gaxoZOApmJCVCxGAFAj+07BGwzuX6SYu7rvZN6JdnWTRcjsgqmx2cNlIXC9S
+hb4L2A97tptu3yqXzgo3ezyJK8duFzXLZN1hJzUDvOBbkVqfMxrP9GfbuxLolIa70/X4azUshFdg
+zx1taa24lUvIBEPs95LkKT3AJLogeDQJzAXGyA==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=464)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cbc"
+`pragma protect data_block
+xpqfgMM6Rj2zLlxnM/R4BdRlwlSNWEGFS4zR/0l1S25lrn3FkXqOe2Zfvgo6UXQpq1W6JZOZfHlw
+oQdeD6U8NHjN8FcdPzBYtNo2wbQVax/Uh1cDfQV1/MaygSfnDzO3Yd13I3vYIYVjOXw/fxwS5f+q
+4as6OOse2uoCJaGPMsET+0tIgkZB6CmoOAFTxB88QvWUcW9hYHz+HErtQX9L4zpTbkpwitzitq0T
+AcR155nNpDhUdH7g3jeXnqqUODUIM+gCoON3eGzfi5r27fwu5pdftdUblhdLUSlThkAQbD9kle3r
+9jGpB/qHBCuYP2iR/Rz7lt6cpCXEqAoHLpwOhDXZF8bjMC34FBDYINa9e/uNIGySltGzicdU0BcL
+86Tu2HoY/1rJ6KvH/V/7LBUzlWwI22zAIpKMB2rlkmLY9yZQG03O6Dvi1Mr3yV5nBICizYr8XR/+
+uj/tnHNEXTinzF3SCR3UN25iC2WiX72kyBH4EFbx937ENE6P3p30pLPjxwh06vt7HofIpy0XxyWi
+ctW9TuZSOTHot8lRap8iWgiS0pUze6+n/MYyL/qRzZsPJ1x8dFIGlIjkyViwD1zsAMjYCyigKrU1
+o9XcBycUCMA=
+`pragma protect end_protected

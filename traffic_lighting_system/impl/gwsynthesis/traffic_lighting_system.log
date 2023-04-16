@@ -1,0 +1,8 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\bjkli\OneDrive\Belgeler\traffic_lighting_system\src\program.v'
+Compiling module 'traffic_lights'("C:\Users\bjkli\OneDrive\Belgeler\traffic_lighting_system\src\program.v":1)
+ERROR (EX2000) : Net 'time_counter[31]' is constantly driven from multiple places("C:\Users\bjkli\OneDrive\Belgeler\traffic_lighting_system\src\program.v":18)
+ERROR (EX1999) : Found another driver here("C:\Users\bjkli\OneDrive\Belgeler\traffic_lighting_system\src\program.v":35)
+Module 'traffic_lights' remains a black box due to errors in its contents("C:\Users\bjkli\OneDrive\Belgeler\traffic_lighting_system\src\program.v":1)
+GowinSynthesis finish
