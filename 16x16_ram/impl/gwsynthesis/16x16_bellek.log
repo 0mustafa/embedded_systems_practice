@@ -1,0 +1,6 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\bjkli\OneDrive\Belgeler\GOWIN_PROJECTS\16x16_bellek\src\16x16_bellek.v'
+ERROR (EX3863) : Syntax error near '16'("C:\Users\bjkli\OneDrive\Belgeler\GOWIN_PROJECTS\16x16_bellek\src\16x16_bellek.v":1)
+Verilog file 'C:\Users\bjkli\OneDrive\Belgeler\GOWIN_PROJECTS\16x16_bellek\src\16x16_bellek.v' ignored due to errors
+GowinSynthesis finish
